@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.amfitel.m2000.ae.tests.xslt</groupId>
+	<groupId>com.acme.ae.tests.xslt</groupId>
 	<artifactId>XSLTTest</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
